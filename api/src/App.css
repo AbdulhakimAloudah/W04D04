@@ -1,0 +1,14 @@
+ul  {
+text-align: center;
+  display: flex;
+  margin: 25px;
+font-size: 25px;
+justify-content: space-around;
+color: brown;
+
+}
+
+.uu {
+  text-align: center;
+  background-color: aqua;
+}
